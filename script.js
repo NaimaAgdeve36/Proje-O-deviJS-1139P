@@ -9,7 +9,7 @@ function decreaseBarca() {
         document.getElementById("BarcaScore").innerHTML = counterBarca;
     }
     else {
-          alert("skor sıfırdan küçük olamaz");
+       
 
     }
 }
@@ -29,7 +29,7 @@ function decreaseReal() {
         document.getElementById("RealScore").innerHTML = counterReal;
     }
     else {
-          alert("skor sıfırdan küçük olamaz");
+          alert("skor sıfırdan -- küçük olamaz");
 
     }
 }
